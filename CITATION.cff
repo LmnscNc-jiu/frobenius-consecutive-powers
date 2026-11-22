@@ -11,6 +11,9 @@ authors:
     orcid: "https://orcid.org/0009-0005-7129-7221"
 version: "1.0.0"
 date-released: "2026-11-23"
+repository-code: "https://github.com/LmnscNc-jiu/frobenius-consecutive-powers"
+doi: "10.5281/zenodo.24443870"
+license: "MIT"
 keywords:
   - Frobenius number
   - numerical semigroup
