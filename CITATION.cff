@@ -1,0 +1,18 @@
+# Citation metadata for the accompanying programs and Lean 4 formalization.
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Programs and Lean formalization for: The order of growth of the Frobenius number of three consecutive k-th powers"
+type: software
+authors:
+  - family-names: "Chen"
+    given-names: "Jingyu"
+    email: "202411998253@mail.bnu.edu.cn"
+    affiliation: "School of Mathematical Sciences, Beijing Normal University"
+    orcid: "https://orcid.org/0009-0005-7129-7221"
+version: "1.0.0"
+date-released: "2026-11-23"
+keywords:
+  - Frobenius number
+  - numerical semigroup
+  - Lean 4
+  - formal verification
